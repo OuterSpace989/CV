@@ -1,0 +1,29 @@
+body {
+  background-color: #f8ead8;
+  font-family: "Roboto", sans-serif;
+}
+
+hr {
+  height: 0px;
+  border-style: dotted none none none;
+  width: 40%;
+  border-color: #d3756b;
+  border-width: 8px;
+}
+
+img {
+  height: 100%;
+  width: 100%;
+}
+
+h1 {
+  color: #a7727d;
+}
+
+h3 {
+  color: #d3756b;
+}
+
+a:hover {
+  color: black;
+}
